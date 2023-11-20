@@ -1,0 +1,19 @@
+{
+  "name": "bahia-informativa",
+  "version": "1.0.0",
+  "description": "Nesse repositório você encontra os *starter files* de um projeto feito com HTML, CSS e Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rodrig0Costa/bahia-informativa.git"
+  },
+  "author": "RodrigoCosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrig0Costa/bahia-informativa/issues"
+  },
+  "homepage": "https://github.com/Rodrig0Costa/bahia-informativa#readme"
+}
