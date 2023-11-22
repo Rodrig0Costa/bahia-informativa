@@ -187,14 +187,14 @@ color: var(--clr-dark-green);
 	.hero-texto__titulo {
 		font-size: 5.2rem;
 		font-weight: 900;
-		color: #ffffff;
+		color: #000000;
 		text-transform: uppercase
 	}
 
 	.hero-texto__descricao {
 		font-size: 2.4rem;
 		font-weight: 600;
-		color: #ffffff;
+		color: #000000;
 		max-width: 57rem;
 		margin: 1rem 0;
 	}
